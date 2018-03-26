@@ -1,0 +1,6 @@
+logging:
+  pattern:
+    console: "%d - %msg%n"
+  path: C:\Users\Administrator\Desktop\
+  file: C:\Users\Administrator\Desktop\weixinsell.log
+  level: info
