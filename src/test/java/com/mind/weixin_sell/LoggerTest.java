@@ -31,6 +31,7 @@ public class LoggerTest {
         log.info( "info.......");
         log.error("error.....");
         log.info("name:{}+tel:{}",name,tel);
+
     }
 
 
